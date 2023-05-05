@@ -21,7 +21,7 @@
     <ClCompile Include="ListQueue.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="LinkedList.cpp">
+    <ClCompile Include="LinkedStack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="PrecondViolatedExcep.cpp">
@@ -30,7 +30,7 @@
     <ClCompile Include="Node.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="PalindromeChecker.cpp">
+    <ClCompile Include="LinkedList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -41,10 +41,10 @@
     <ClInclude Include="QueueInterface.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="LinkedList.h">
+    <ClInclude Include="LinkedStack.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="ListInterface.h">
+    <ClInclude Include="StackInterface.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="PrecondViolatedExcep.h">
@@ -53,7 +53,10 @@
     <ClInclude Include="Node.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="PalindromeChecker.h">
+    <ClInclude Include="LinkedList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ListInterface.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
